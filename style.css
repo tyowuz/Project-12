@@ -1,0 +1,11 @@
+
+.nav_bar{
+    background-color: silver;
+    display: flex;
+    width: 100%;
+    padding: 0px;
+}
+.company_logo{
+    border-radius: 50%;
+    width: 3rem;
+}
